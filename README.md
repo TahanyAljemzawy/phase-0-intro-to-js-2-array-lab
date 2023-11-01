@@ -55,8 +55,8 @@ prone to bugs.
 
 Remember the workflow:
 
-1. Install the dependencies using `npm install`.
-2. Run the tests using `npm test`.
+1. Install the dependencies using `npm install`. // yarn
+2. Run the tests using `npm test`. // yarn test
 3. Read the errors; vocalize what they're asking you to do.
 4. Write code; repeat steps 2 and 3 often until a test passes.
 5. Repeat as needed for the remaining tests.
